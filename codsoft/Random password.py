@@ -7,5 +7,5 @@ def generate_password(length):
     return password
 
 # Example: Generate a random password of length 12
-password = generate_password(12)
+password = generate_password(9)
 print("Random Password:", password)
